@@ -1,0 +1,14 @@
+# IDE
+.idea
+
+# Local conf
+.env
+
+# Python
+venv
+.venv
+*.pyc
+__pycache__/
+.python-version
+.ipynb_checkpoints/
+
